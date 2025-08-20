@@ -20,12 +20,8 @@
 ## 👥 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinay-devu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:saisuryavinay06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/saisuryavinay"><img src="https://skillicons.dev/icons?i=github" /></a>
-   <a href="https://instagram.com/_sai_surya_vinay_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/swetha-devu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:sreelakshmiswethadevu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
