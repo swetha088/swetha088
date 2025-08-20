@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devu Sree Lakshmi Swetha</h1>
 <h3 align="center"> B.Tech CSE Graduate (2024)</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Software+Engineer;" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNyMmk5ZTM2OG02ZTF0ZjNxOXU3Y2Nld2t6ZW55NG9iN3RkNzR1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="coding" width="400"/>
