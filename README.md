@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devu Sai Surya Vinay</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech 3rd Year | Passionate about code</h3>
+<h1 align="center">Hi 👋, I'm Devu Sree Lakshmi Swetha</h1>
+<h3 align="center"> B.Tech CSE Graduate (2024)</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+Lover;Learning+Node+js+%26+React+for+Backend;Engineering+Student" alt="Typing SVG" />
 </p>
