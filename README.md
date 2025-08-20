@@ -9,12 +9,11 @@
 
 
 ---
-- 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
+- 🎓 I'm a 2024 graduate of **B.Tech  in Computer Science and Engineering**  
 - 🔭 I’m currently working on **Personal Portfolio**
-- 🌱 I’m learning **JavaScript & ReactJS**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vinay-devu/) | [Email](mailto:saisuryavinay06@gmail.com)
-- 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1iKAdKkdBbI6pu50uvn1bn06sg0m38H3o/view?usp=sharing)
-- ⚡ Fun fact: **I bring the fun to functions 😉**
+- 🌱 I’m learning **Full Stack Development**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/swetha-devu/) | [Email](mailto:sreelakshmiswethadevu@gmail.com)
+
 
 ---
 
