@@ -7,9 +7,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNyMmk5ZTM2OG02ZTF0ZjNxOXU3Y2Nld2t6ZW55NG9iN3RkNzR1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="coding" width="400"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saisuryavinay&label=Profile%20views&color=0e75b6&style=flat" alt="saisuryavinay" />
-</p>
 
 ---
 - 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
