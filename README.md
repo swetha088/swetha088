@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a 2024 B.Tech graduate in Computer Science and Engineering<br>💻 Passionate about Data Engineering and Cloud Technologies<br>🔭 I'm currently building end-to-end ETL and Data Engineering projects<br>🌱 I'm learning PySpark, Databricks, Azure, AWS, and advanced Data Engineering concepts<br>📚 Exploring scalable data pipelines and Medallion Architecture<br>📫 Reach me on LinkedIn | Email<br>
+🎓 I'm a 2024 B.Tech graduate in Computer Science and Engineering<br>💻 Passionate about Data Engineering and Cloud Technologies<br>🔭 I build an end-to-end ETL and Data Engineering projects<br>🌱 I'm learning PySpark, Databricks, Azure, AWS, and advanced Data Engineering concepts<br>📚 Exploring scalable data pipelines and Medallion Architecture<br>📫 Reach me on LinkedIn | Email<br>
 
 
 ## 🌐 Socials:
